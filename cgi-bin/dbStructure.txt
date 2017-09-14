@@ -1,0 +1,12 @@
+Database Structure for Cross-System RPG character sheet
+
+TABLE 1: Users
+username - primary key
+password
+
+TABLE 2: Characters
+id - primary key
+owner
+charname
+system
+json
